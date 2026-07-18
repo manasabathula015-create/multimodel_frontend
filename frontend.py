@@ -1,7 +1,6 @@
 import gradio as gr
 import requests
-API_URL = "https://multimodel-backend-1.onrender.com/analyze
-"
+API_URL = "https://multimodel-backend-1.onrender.com/analyze"
 
 def analyze_meeting(image):
 
